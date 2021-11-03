@@ -12130,7 +12130,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-
+  background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -12358,14 +12358,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   left: 0px;
   opacity: 0;
   background-color: #000;
-  /* background-image: url("icons/lupe.png"); */
+  background-image: url("icons/lupe.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
 .img-layer-image-hover:hover .layer {
   opacity: 0.7;
   background-color: #000;
-  /* background-image: url("icons/lupe.png"); */
+  background-image: url("icons/lupe.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -12467,14 +12467,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   left: 0px;
   opacity: 0;
   background-color: #fff;
-  /* background-image: url("icons/lupe-2.png"); */
+  background-image: url("icons/lupe-2.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
 .img-layer-image-hover-2:hover .layer {
   opacity: 0.7;
   background-color: #fff;
-  /* background-image: url("icons/lupe-2.png"); */
+  background-image: url("icons/lupe-2.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -12782,14 +12782,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   left: 0px;
   opacity: 0.6;
   background-color: #000;
-  /* background-image: url("icons/lupe.png"); */
+  background-image: url("icons/lupe.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
 .img-layer-image-hover-backgroundchange:hover .layer {
   opacity: 0.5;
   background-color: #fff;
-  /* background-image: url("icons/lupe-2.png"); */
+  background-image: url("icons/lupe-2.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -12984,7 +12984,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   -moz-filter: blur(3px);
   -o-filter: blur(3px);
   -ms-filter: blur(3px);
-  /* filter: url(blur.svg#blur); */
+  filter: url(blur.svg#blur);
   filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
 }
 
@@ -13004,7 +13004,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
-  /* filter: url(greyscale.svg#greyscale); */
+  filter: url(greyscale.svg#greyscale);
   filter: gray;
 }
 
