@@ -1,6 +1,3 @@
-//import "react-bootstrapt";
-//import "./css/bootstrapt.main.css";
-
 import React from "react";
 
 function About() {
@@ -16,8 +13,8 @@ function About() {
             <li>
               <div className="timeline-image">
                 <img
-                  className="rounded-circle img-fluid2"
-                  src="https://cdn-icons.flaticon.com/png/512/566/premium/566387.png?token=exp=1635108156~hmac=beb042c3b918e781f75337c2bf8e48b9"
+                  className=" img-fluid2"
+                  src="https://cdn-icons.flaticon.com/png/512/566/premium/566387.png?token=exp=1637356475~hmac=7423a8d5ef2fbe3e96c4173e6b20250f"
                   alt="..."
                 />
               </div>
@@ -37,8 +34,8 @@ function About() {
             <li className="timeline-inverted">
               <div className="timeline-image">
                 <img
-                  className="rounded-circle img-fluid2"
-                  src="https://cdn-icons.flaticon.com/png/512/5465/premium/5465982.png?token=exp=1635108258~hmac=f4439b19a6b471eac58cc9b45b6fb3a6"
+                  className=" img-fluid2"
+                  src="https://cdn-icons.flaticon.com/png/512/5465/premium/5465991.png?token=exp=1637356613~hmac=971d4ac31ff196a2979761afcbea1564"
                   alt="..."
                 />
               </div>
@@ -58,7 +55,7 @@ function About() {
             <li>
               <div className="timeline-image">
                 <img
-                  className="rounded-circle img-fluid2"
+                  className=" img-fluid2"
                   src="https://cdn-icons-png.flaticon.com/512/2726/2726537.png"
                   alt="..."
                 />

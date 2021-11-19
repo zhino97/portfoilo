@@ -1,6 +1,4 @@
 /* eslint-disable jsx-a11y/alt-text */
-//import "react-bootstrapt";
-//import "./css/bootstrapt.main.css";
 import React from "react";
 
 function Skills() {

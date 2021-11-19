@@ -1,5 +1,4 @@
-// import "./portfoilo0.css";
-// import "./css/bootstrapt.main.css";
+
 import "./App.css";
 
 import Navbar from "./component/Navbar";

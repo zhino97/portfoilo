@@ -1,5 +1,3 @@
-//import "react-bootstrapt";
-//import "./css/bootstrapt.main.css";
 import React from "react";
 
 function Contact() {

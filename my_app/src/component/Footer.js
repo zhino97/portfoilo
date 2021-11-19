@@ -1,5 +1,6 @@
-//import "./css/bootstrapt.main.css";
 import React from "react";
+
+import { ImGithub, ImLinkedin2, ImCodepen } from "react-icons/im";
 
 function Footer() {
   return (
@@ -12,16 +13,19 @@ function Footer() {
               className="btn btn-dark btn-social mx-2"
               href="https://codepen.io/your-work"
             >
-              <i className="fab fa-codepen" />
+              <i />
+              <ImCodepen />
             </a>
             <a
               className="btn btn-dark btn-social mx-2"
               href="https://github.com/zhino97"
             >
-              <i className="fab fa-github" />
+              <i />
+              <ImGithub />
             </a>
             <a className="btn btn-dark btn-social mx-2" href="#!">
-              <i className="fab fa-linkedin-in" />
+              <i />
+              <ImLinkedin2 />
             </a>
           </div>
         </div>

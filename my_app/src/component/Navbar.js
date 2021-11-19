@@ -1,6 +1,3 @@
-//import "react-bootstrapt";
-//import "./css/bootstrapt.main.css";
-//import "./portfolio0.css";
 
 import React from "react";
 
